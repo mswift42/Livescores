@@ -5,6 +5,6 @@ Uses rss Feeds from German Football Site www.kicker.de . (News and Scores are in
 
 To run :
 
-> python3 livescores.py
+> `python3 livescores.py`
 
 or make script executable with `chmod +x livescores.py`
